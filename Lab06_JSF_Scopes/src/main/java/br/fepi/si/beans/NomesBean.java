@@ -19,8 +19,9 @@ public class NomesBean implements Serializable {
 	public void adicionar() {
 		this.nomes.add(nome);
 		
+		
 	}	
-
+	
 	public String getNome() {
 		return nome;
 	}
